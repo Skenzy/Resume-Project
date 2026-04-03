@@ -1,2 +1,0 @@
-# Resume-Project
-Learning HTML
